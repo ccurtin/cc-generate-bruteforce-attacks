@@ -30,3 +30,6 @@ On the admin dashboard menu, navigate to Settings > Generate Bruteforce Attack R
 
 ## Changelog
 v0.0.1 alpha
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ccurtin/cc-generate-bruteforce-attacks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
